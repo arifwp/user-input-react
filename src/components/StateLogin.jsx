@@ -29,7 +29,7 @@ export default function Login() {
       return;
     }
 
-    console.log(emailValue, passwordValue);
+    console.log("credential:", emailValue, passwordValue);
   }
 
 
